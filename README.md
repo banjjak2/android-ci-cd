@@ -1,2 +1,3 @@
 # android-ci-cd
-Android CI/CD Test
+
+Github Actions를 이용한 안드로이드에서 CI/CD 구축하기
